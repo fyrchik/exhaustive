@@ -14,7 +14,7 @@ This number can be implicitly computed and it can be seen that our `Exists` term
 There are some links below.
 It is also true that for some function types equality predicate is decidable.
 
-Haskell suits better (because it is lazy), however I've implemented it in Go, because why not?
+Haskell suits better (because it is lazy and implementation can be found in first link), however I've implemented it in Go, because why not?
 
 # Links
 
