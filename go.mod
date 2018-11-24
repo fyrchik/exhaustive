@@ -1,1 +1,1 @@
-module github.com/fyrchik/infinity
+module github.com/fyrchik/go-impossible

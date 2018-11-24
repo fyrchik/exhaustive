@@ -1,4 +1,4 @@
-package infinity
+package impossible
 
 import (
 	"math/big"
