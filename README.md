@@ -2,7 +2,7 @@
 It happens, that there are some infinite sets on which we can perform exhaustive search in finite time.
 For example, the Cantor set, which can be bijectively mapped to inifinite 0-1 sequences.
 
-It is pretty easy to see, that if this predicate is `true` on _some_ inputs, then we can find them by brute-forcing.
+It is pretty easy to see, that if predicate is `true` on _some_ inputs, then we can find them by brute-forcing.
 However if our predicate is always false it's is not immediately obvious, _when_ should we return.
 
 # WTF (I dont want math)
